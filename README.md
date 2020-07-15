@@ -41,10 +41,10 @@ CREATE TABLE IF NOT EXISTS public.transactions
 
 ### Get last block
 
-METHOD: GET
-URL: /api/block/last
+- METHOD: GET
+- URL: /api/block/last
 
 ### Get block by number
 
-METHOD: GET
-URL: /api/block/:blockNumber
+- METHOD: GET
+- URL: /api/block/:blockNumber
