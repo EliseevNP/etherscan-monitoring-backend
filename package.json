@@ -13,7 +13,7 @@
     "lint:fix": "eslint ./src --fix --ext .ts,.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.12.2",
     "knex": "^0.21.2",
