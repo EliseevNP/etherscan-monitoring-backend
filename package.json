@@ -16,7 +16,7 @@
     "axios": "^0.19.2",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.12.2",
-    "knex": "^0.21.2",
+    "knex": "^2.4.0",
     "koa": "^2.13.0",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^9.1.0",
